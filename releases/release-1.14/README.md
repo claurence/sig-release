@@ -90,7 +90,7 @@ By **Tuesday January 29, 2019** all enhancements landing in v1.14.0 must:
   linked to in the description of the tracking issue
 
 By **Monday, February 4, 2019**, the KEPs associated with all enhancements landing in v1.14.0 
-must be merged with an implementable status. This 1.14-specific extension is intended to allow 
+must be merged with an implementable status. If your KEP is merged after Enhancement freeze but before EOD PST Monday Feb 4th an exception is not required to have your enahcenement added to the milestone. This 1.14-specific extension is intended to allow 
 time to complete KEPs that were in progress by enhancements freeze. In future releases, the 
 intent is to require associated KEPs be merged/implementable by the enhancements freeze date.
 
